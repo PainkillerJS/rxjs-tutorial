@@ -6,6 +6,7 @@ import { environment } from './environments/environment';
 
 import 'src/app/rxjs/rxjs-lessons';
 import 'src/app/canvas';
+import 'src/app/rxjs-subject';
 
 if (environment.production) {
   enableProdMode();
